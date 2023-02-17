@@ -144,8 +144,8 @@ fun CrashHeader() {
     ) {
         Image(
             modifier = Modifier.size(48.dp),
-            painter = painterResource(id = R.drawable.ic_dhis),
-            contentDescription = "dhis2"
+            painter = painterResource(id = R.drawable.mhssp_logo),
+            contentDescription = "mhssp"
         )
         Spacer(modifier = Modifier.width(8.dp))
         Text(

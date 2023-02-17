@@ -321,7 +321,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="6dp"
                     android:visibility="gone"
-                    app:icon="@drawable/ic_dhis"
+                    app:icon="@drawable/mhssp_logo_2"
                     app:layout_constraintTop_toBottomOf="@id/login"
                     tools:text="Log in with google" />
 
