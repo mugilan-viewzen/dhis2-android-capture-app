@@ -26,9 +26,9 @@
             android:layout_width="0dp"
             android:layout_height="80dp"
             android:layout_centerInParent="true"
+            android:layout_marginStart="20dp"
             android:layout_marginTop="20dp"
             android:layout_marginEnd="20dp"
-            android:layout_marginStart="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -43,6 +43,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/india"
             tools:src="@drawable/sierra_leone" />
 
         <com.airbnb.lottie.LottieAnimationView
